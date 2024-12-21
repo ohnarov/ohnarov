@@ -1,6 +1,5 @@
 ### Hi, there 😺
-- Interested in Math, Data Analytics, AI/ML (game agents, chats).
-
+I am interested in Data Analytics, Math, Statistics, and Data Visualization.
 <!--
 **ognarev/ognarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
